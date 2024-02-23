@@ -4,7 +4,12 @@ import { About, Footer, Header, Skills, Testimonial, Work } from './container';
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <Header />
+      <About />
+      <Work />
+      <Skills />
+      <Testimonial />
+      <Footer />
     </div>
   );
 }
