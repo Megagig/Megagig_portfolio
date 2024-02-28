@@ -24,11 +24,13 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import profileme from '../assets/profileme.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import megagigLogo from '../assets/megagigLogo.png';
 
 import adidas from '../assets/adidas.png';
+import rails from '../assets/rails.png';
 import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
 import bolt from '../assets/bolt.png';
@@ -54,8 +56,10 @@ export default {
   python,
   react,
   redux,
+  rails,
   sass,
   typescript,
+  profileme,
   vue,
   about01,
   about02,
