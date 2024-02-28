@@ -1,9 +1,18 @@
 import React from 'react';
+import { About, Footer, Header, Skills, Testimonial, Work } from './container';
+import { Navbar } from './components';
+import './App.scss';
 
 function App() {
   return (
-    <div>
-      <h1>App</h1>
+    <div className="app">
+      <Navbar />
+      <Header />
+      <About />
+      <Work />
+      <Skills />
+      <Testimonial />
+      <Footer />
     </div>
   );
 }
